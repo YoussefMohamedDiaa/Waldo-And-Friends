@@ -31,7 +31,7 @@
         </tr>
         <tr><td></td></tr>
         <tr>
-            <td rowspan=3>Mahamd Adel</td>
+            <td rowspan=3>Mohamed Adel</td>
             <td>2 Models with their animations (loop + found)</td>
         </tr>
         <tr>
