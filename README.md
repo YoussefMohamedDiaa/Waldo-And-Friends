@@ -1,2 +1,2 @@
-# Unity-Project1
+# Waldo and Friends
 Hello World.
