@@ -9,7 +9,11 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3>Youssef Diaa</td>
+            <td rowspan=3>
+                <a href="https://github.com/YoussefMohamedDiaa">
+                    <img src="https://github.com/YoussefMohamedDiaa.png?size=100">
+                </a>
+            </td>
             <td>2 Models with their animations (loop + found)</td>
         </tr>
         <tr>
@@ -20,7 +24,11 @@
         </tr>
         <tr><td></td></tr>
         <tr>
-            <td rowspan=3>Abdelrahman Ouda</td>
+            <td rowspan=3>
+                 <a href="https://github.com/ouda98">
+                    <img src="https://github.com/ouda98.png?size=100">
+                </a>
+            </td>
             <td>2 Models with their animations (loop + found)</td>
         </tr>
         <tr>
@@ -31,7 +39,11 @@
         </tr>
         <tr><td></td></tr>
         <tr>
-            <td rowspan=3>Mohamed Adel</td>
+            <td rowspan=3>
+                <a href="https://github.com/Moe98">
+                    <img src="https://github.com/Moe98.png?size=100">
+                </a>
+            </td>
             <td>2 Models with their animations (loop + found)</td>
         </tr>
         <tr>
@@ -40,7 +52,11 @@
         <tr><td>-</td></tr>
         <tr><td></td></tr>
         <tr>
-            <td rowspan=3>Abdulrahman Muhammad</td>
+            <td rowspan=3>
+                 <a href="https://github.com/abdoronic">
+                    <img src="https://github.com/abdoronic.png?size=100">
+                </a>
+            </td>
             <td>2 Models with their animations (loop + found)</td>
         </tr>
         <tr>
