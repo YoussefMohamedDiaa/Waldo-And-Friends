@@ -1519,7 +1519,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 384e81abdb67044699c218dffae3ca36, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e0a550d1ab9094487babd7371164a8c8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1621,8 +1621,8 @@ MonoBehaviour:
   levelTimer: 20
   timeBonus: 0.4
   soundtrack: {fileID: 482723264}
-  foundSound: {fileID: 8300000, guid: 7c8846211b212476ab737e0cfd126755, type: 3}
-  wrongSound: {fileID: 8300000, guid: 50fa66ce2f868400bae19219a10532e7, type: 3}
+  foundSound: {fileID: 8300000, guid: 64498edafc7654d718b3c8596c0ff07a, type: 3}
+  wrongSound: {fileID: 8300000, guid: 582b200cbf0c6414bb9e5bb8a68b7908, type: 3}
 --- !u!1001 &484452415
 PrefabInstance:
   m_ObjectHideFlags: 0
